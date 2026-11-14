@@ -44,7 +44,7 @@ const produtos = [
             "Frutas frescas",
             "Turbine com adicionais"
         ],
-        linkCopo: "https://www.ifood.com.br/delivery/esteio-rs/acai-da-mika-novo-esteio/19a2a773-f8d0-4fa4-810e-723dfc9657de?prato=8e43f920-defb-405f-9281-1c12080b6298"
+        linkCopo: "#"
     },
     {
         favorit: true,
@@ -56,7 +56,7 @@ const produtos = [
             "Frutas frescas",
             "Monte do seu jeito"
         ],
-        linkCopo: "https://www.ifood.com.br/delivery/esteio-rs/acai-da-mika-novo-esteio/19a2a773-f8d0-4fa4-810e-723dfc9657de?prato=6a4761a6-ab89-4bdc-8c69-92bfe44177b3"
+        linkCopo: "#"
     },
     {
         nome: "Copo 700ML",
@@ -67,7 +67,7 @@ const produtos = [
             "Frutas frescas",
             "Turbine sem limites"
         ],
-        linkCopo: "https://www.ifood.com.br/delivery/esteio-rs/acai-da-mika-novo-esteio/19a2a773-f8d0-4fa4-810e-723dfc9657de?prato=4acb5ad4-9be0-40b6-bd2f-3831c762333e"
+        linkCopo: "#"
     },
     {
         nome: "Combo família",
@@ -78,7 +78,7 @@ const produtos = [
             "Vários acompanhamentos",
             "Ideal para família e amigos"
         ],
-        linkCopo: "https://www.ifood.com.br/delivery/esteio-rs/acai-da-mika-novo-esteio/19a2a773-f8d0-4fa4-810e-723dfc9657de?prato=5a602ff8-a39e-4581-8d4d-8b04c5bc6ee4"
+        linkCopo: "#"
     }
 ]
 
