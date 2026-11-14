@@ -266,6 +266,14 @@ Para publicar pelo GitHub:
 
 Lembre-se de manter o `index.html` na raiz do diretório publicado.
 
+### Sobre as imagens
+
+As imagens utilizadas na demonstração do template são meramente ilustrativas.
+
+As imagens de terceiros não fazem parte do produto comercializado e não são fornecidas como arquivos para redistribuição. Caso deseje utilizá-las, acesse suas respectivas fontes e verifique as condições de uso.
+
+O comprador é responsável por selecionar e utilizar imagens que possua autorização para publicar em seu próprio site.
+
 ## ⚠️ Observações importantes
 
 - Este projeto é um template front-end estático.
